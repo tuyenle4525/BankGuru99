@@ -1,6 +1,6 @@
 # BankGuru99
 
-## Instalation
+## Installation
 Chromedriver version 84.0.4147.30 [download](https://chromedriver.storage.googleapis.com/index.html?path=84.0.4147.30/)
 
 Google chorme version 84
