@@ -3,7 +3,7 @@
 ## Installation
 Chromedriver version 84.0.4147.30 [download](https://chromedriver.storage.googleapis.com/index.html?path=84.0.4147.30/)
 
-Google chorme version 84
+Google chrome version 84
 
 ## Running the test
 Open lib folder -> right click runTestcase.xml -> Run As -> 1 TestNG Suite
